@@ -2,6 +2,11 @@
 Logistic Regression, Decision Tree, Random Forest, XGBoost Algorithm  used  in this project.
 
 # 1.Loading Packages
+* pandas
+* numpy
+* matplotlib 
+* seaborn
+
 # 2.Data
 For this practice problem, we have been given three CSV files: train, test.
 
