@@ -10,3 +10,28 @@ For this practice problem, we have been given three CSV files: train, test.
 # 3.Understanding The Data
 
 ![Screenshot](Screenshot.png)
+
+# 4.Exploratory Data Analysis
+* Univariate Analysis
+* Target Variable
+* Independent Variable(Categorical)
+* Independent Variable(Ordinal)
+* Independent Variable (Numerical)
+* Bivariate Analysis
+* Categorical Independent Variable vs Target Variable
+* Numerical Independent Variable vs Target Variable
+* Missing Value and Outlier Treatment
+
+# Model Building : Part I
+* Logistic Regression using stratified k-folds cross validation
+* Feature Engineering
+
+# Model Building: Part II
+We will build the following models in this section.
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* XGBoost
+
+
